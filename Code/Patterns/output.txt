@@ -1,0 +1,150 @@
+Pattern-1: Rectangular Star Pattern
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+
+Pattern-2: Right-Angled Triangle Pattern
+* 
+* * 
+* * * 
+* * * * 
+
+Pattern – 3: Right-Angled Number Pyramid
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+
+Pattern – 4: Right-Angled Number Pyramid – II
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+
+Pattern-5: Inverted Right Pyramid
+* * * * 
+* * * 
+* * 
+* 
+
+Pattern – 6: Inverted Numbered Right Pyramid
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+
+Pattern – 7: Star Pyramid
+   *   
+  ***  
+ ***** 
+*******
+
+Pattern – 8: Inverted Star Pyramid
+*******
+ ***** 
+  ***  
+   *   
+
+Pattern – 9: Diamond Star Pattern
+   *   
+  ***  
+ ***** 
+*******
+*******
+ ***** 
+  ***  
+   *   
+
+Pattern – 10: Half Diamond Star Pattern
+
+*
+**
+***
+****
+***
+**
+*
+
+Pattern – 11: Binary Number Triangle Pattern
+1 
+0 1 
+1 0 1 
+0 1 0 1 
+
+Pattern – 12: Number Crown Pattern
+1      1
+12    21
+123  321
+12344321
+
+Pattern – 13: Increasing Number Triangle Pattern
+
+1 
+2 3 
+4 5 6 
+
+Pattern-14: Increasing Letter Triangle Pattern
+A 
+A B 
+A B C 
+A B C D 
+
+Pattern-15: Reverse Letter Triangle Pattern
+A B C D 
+A B C 
+A B 
+A 
+
+Pattern – 16: Alpha-Ramp Pattern
+
+A 
+B B 
+C C C 
+
+Pattern – 17: Alpha-Hill Pattern
+   A   
+  ABA  
+ ABCBA 
+ABCDCBA
+
+Pattern-18: Alpha-Triangle Pattern
+D 
+C D 
+B C D 
+A B C D 
+
+Pattern-19: Symmetric-Void Pattern
+********
+***  ***
+**    **
+*      *
+*      *
+**    **
+***  ***
+********
+
+Pattern – 20: Symmetric-Butterfly Pattern
+        
+*      *
+**    **
+***  ***
+********
+***  ***
+**    **
+*      *
+
+Pattern – 21: Hollow Rectangle Pattern
+****
+*  *
+*  *
+****
+
+Pattern – 22: The Number Pattern
+4444444
+4333334
+4322234
+4321234
+4322234
+4333334
+4444444
